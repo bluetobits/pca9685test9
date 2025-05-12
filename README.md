@@ -1,4 +1,4 @@
-# pca9685test9
+# pca9685test9 Steve Lomax 2025. Not for commercial use
 
 # Arduino 32 Point Control system
 ## PART 9  
